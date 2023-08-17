@@ -21,6 +21,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>carpool_application</finalName>
+    <finalName>carpool_app</finalName>
   </build>
 </project>
